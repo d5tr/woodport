@@ -6,6 +6,7 @@ import ban
 import sys
 import os
 import socket
+import paramiko
 from colorama import init, Fore
 import threading
 import time
