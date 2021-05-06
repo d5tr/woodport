@@ -36,6 +36,18 @@ $ sudo su
 $ python3 port_hack.py
 ```
 
+# Example usege 
+
+```
+SSH :
+$ python3 port_hack.py -s -i <IP> -u <USER> -l <PASSWORD LIST>
+```
+
+```
+FTP :
+$ python3 port_hack.py -f -i <IP> -u <USER> -l <PASSWORD LIST>
+```
+
 # Follow me 
 
 * [Instagram](https://instagram.com/d_5tr)
