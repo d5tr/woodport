@@ -34,7 +34,6 @@ first options :
     -s  |    SSH guess
     -p  |    PORT scan ( 21 , 22 )
     -f  |    FTP guess
-    -m  |    SMTP guess
 ===================================
 second options :
     
