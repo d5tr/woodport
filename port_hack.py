@@ -5,10 +5,8 @@ from sys import argv
 import ban
 import sys
 import os
-import paramiko
 import socket
 from colorama import init, Fore
-import download_port_hack
 import threading
 import time
 
