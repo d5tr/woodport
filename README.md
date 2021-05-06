@@ -48,6 +48,10 @@ FTP :
 $ python3 port_hack.py -f -i <IP> -u <USER> -l <PASSWORD LIST>
 ```
 
+```
+PORT SCAN FTP & SSH :
+$ python3 port_hack.py -p <IP>
+
 ![woodport](https://github.com/d5tr/woodport/blob/main/v_woodport.gif)
 
 
